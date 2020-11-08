@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\bin\Debug\netstandard2.0\DPCellPhone.deps.json
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\bin\Debug\netstandard2.0\DPCellPhone.dll
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\bin\Debug\netstandard2.0\ref\DPCellPhone.dll
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\bin\Debug\netstandard2.0\DPCellPhone.pdb
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\obj\Debug\netstandard2.0\DPCellPhone.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\obj\Debug\netstandard2.0\DPCellPhone.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\obj\Debug\netstandard2.0\DPCellPhone.AssemblyInfo.cs
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\obj\Debug\netstandard2.0\DPCellPhone.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\obj\Debug\netstandard2.0\DPCellPhone.dll
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\obj\Debug\netstandard2.0\ref\DPCellPhone.dll
+C:\Users\dalli\source\repos\DPCellPhone\DPCellPhone\DPCellPhone\obj\Debug\netstandard2.0\DPCellPhone.pdb
